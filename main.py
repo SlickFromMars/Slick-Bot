@@ -6,7 +6,7 @@ import json
 
 client = discord.Client()
 
-bad_words = ["sus", "vent", "balls", "amogus", "among", "us"]
+bad_words = ["sus", "vent", "balls", "amogus", "among", "impostor", "obama"]
 
 curse_respone = [
     "That's a bit sussy.",
