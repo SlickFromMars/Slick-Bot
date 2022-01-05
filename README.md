@@ -1,3 +1,7 @@
 # Slick Bot
 
-Welcome to the source code! What the hell do you want?
+This bot is still EXTREMELY experimental, and really just the building blocks of a bot.
+
+## Features:
+* Rickrolling
+* Sussy censoring
